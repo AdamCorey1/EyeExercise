@@ -6,3 +6,7 @@ TO RUN:
 1. Download files 
 2. Run index.html file in browser
 3. Move mouse to initiate eyeball movement
+
+Licensing information!
+
+This code is licensed by MIT and all subsequent copies of this repository should include this information.
